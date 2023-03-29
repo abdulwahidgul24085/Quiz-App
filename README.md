@@ -4,7 +4,7 @@ How to attempt this challenge:
 
 - Clone this repo
 - Solve the challenge
-- Total time for this challenge is 1 hour.
+- Total time for this challenge is 2 hour.
 - Make a zip of your folder with your name as the name of the zip file. Don't zip the node_modules
 
 
