@@ -2,10 +2,10 @@
 
 How to attempt this challenge:
 
-1) Clone this repo
-2) Solve the challenge
-3)Total time for this challenge is 1 hour.
-4) make zip of your folder with your name as the name of the zip file. Don't zip the node_modules
+- Clone this repo
+- Solve the challenge
+- Total time for this challenge is 1 hour.
+- Make a zip of your folder with your name as the name of the zip file. Don't zip the node_modules
 
 
 ## The Challenge
