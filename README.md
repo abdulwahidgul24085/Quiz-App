@@ -3,12 +3,9 @@
 How to attempt this challenge:
 
 1) Clone this repo
-2) Create a new branch with your name.
-3) Solve the challenge
-4) Push the solution to the new branch.
-5) The total time for this challenge is 1 hour.
-You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
-
+2) Solve the challenge
+3)Total time for this challenge is 1 hour.
+4) make zip of your folder with your name as the name of the zip file. Don't zip the node_modules
 
 
 ## The Challenge
